@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ian Delvalle</h1>
 <h3 align="center">About me</h3>
-🛠️ Software developer specializing in Next.js, React, JavaScript, and TypeScript, with experience in Node.js and databases such as PostgreSQL and MongoDB. 
-🖥️ Expert in automation with Shell Scripting (Python/Bash) and in Linux environments (Debian, Arch, Red Hat), always seeking innovative solutions for software development projects.
-🐳 Specialist in Docker and Kubernetes, with extensive experience in efficient container management and microservices orchestration.
-💼 I am motivated by collaborative work, maintaining a loyal and committed attitude. I bring a responsible and meticulous approach to all my activities.
-💡 My dedication and determination in web development enable me to stand out and exceed expectations with innovative and efficient solutions.
+- 🛠️ Software developer specializing in Next.js, React, JavaScript, and TypeScript, with experience in Node.js and databases such as PostgreSQL and MongoDB. 
+- 🖥️ Expert in automation with Shell Scripting (Python/Bash) and in Linux environments (Debian, Arch, Red Hat), always seeking innovative solutions for software development projects.
+- 🐳 Specialist in Docker and Kubernetes, with extensive experience in efficient container management and microservices orchestration.
+- 💼 I am motivated by collaborative work, maintaining a loyal and committed attitude. I bring a responsible and meticulous approach to all my activities.
+- 💡 My dedication and determination in web development enable me to stand out and exceed expectations with innovative and efficient solutions.
 
 - 🔭 I’m currently working on **freelancer**
 
